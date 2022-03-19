@@ -1,1 +1,1 @@
-# AC.XML
+# AC.XML is a specialized ROBLOX penetration tester/utility tool for certain games. AC.XML can be used to exploit ROBLOX games but we highly do not condone this and will remind users not to use this for it.
